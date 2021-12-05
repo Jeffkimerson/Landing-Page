@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: roboto;
+}
+
+.header,
+.footer {
+    display: flex;
+    background-color: #1f2937;
+}
+
+.first {
+    width: 300px;
+    height: auto;
+}
+main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+ul {
+    margin: 0;
+    display: flex;
+    list-style-type: none;
+}
+
+ul,
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button,
+.container {
+    background-color: #3882F6;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB; 
+}
+
+.info {
+    font-size: 36px;
+    font-style: italic;
+}
+
