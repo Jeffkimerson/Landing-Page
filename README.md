@@ -1,1 +1,1 @@
-# Landing-Page
+This is a project to simulate making a standard webpage.
