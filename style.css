@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: roboto;
-    min-height: 100vh;
+    height: 100vh;
 }
 
 .header,
